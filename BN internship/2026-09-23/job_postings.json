@@ -1,0 +1,40 @@
+{
+	"job_postings": [
+		{
+			"url": "https://www.indeed.com/viewjob?jk=f3a74190258042e1&from=shareddesktop_copy",
+			"title": "Software Engineer, Product Security - Security Automation (Remote)",
+			"company": "CROWDSTRIKE",
+			"location": "Remote",
+			"employment_type": "FT",
+			"description": [
+
+            ],
+			"requirements": [
+
+            ],
+			"salary": {
+				"min": 118000,
+				"max": 212000,
+				"currency": "$"
+			}
+		},
+        {
+            "url": "",
+			"title": "",
+			"company": "",
+			"location": "",
+			"employment_type": "",
+			"description": [
+
+            ],
+			"requirements": [
+
+            ],
+			"salary": {
+				"min": ,
+				"max": ,
+				"currency": "$"
+			}
+        },
+	]
+}
