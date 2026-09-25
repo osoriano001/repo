@@ -7,10 +7,23 @@
 			"location": "Remote",
 			"employment_type": "FT",
 			"description": [
-
+				"Product Security, building and operating robust and scalable systems",
+				"Design and implement software & automation tools for security use cases",
+				"Risk assessments and architectural deep dives",
+				"SRE excellence, CICD, and datastore operations",
             ],
 			"requirements": [
-
+				"SW engineering",
+				"Golang, Python, React, Angular, and/or Typescript",
+				"CI/CD, containers, sw cryptography, and OSS dependencies",
+				"data engineering and datastore/queue operations (OpenSearch, Valkey, Postgres, Kafka, SQS, etc.)",
+				"end-to-end SDLC",
+				"Generative AI/LLMs",
+				"config management;  Ansible, Chef, Salt, Puppet, etc.",
+				"SaaS background",
+				"Cybersecurity, modes of interest?, and TTP",
+				"monitoring / analyzing telemetry data from applications and infrastructure",
+				"Linux -- Cloud(AWS/GCP)",
             ],
 			"salary": {
 				"min": 118000,
@@ -19,6 +32,89 @@
 			}
 		},
         {
+            "url": "https://motional.com/open-positions#/7994169003",
+			"title": "Senior Systems Engineer",
+			"company": "MOTIONAL",
+			"location": "Boston, Las Vegas, Pittsburgh",
+			"employment_type": "FT",
+			"description": [
+				"architecture, development, and maintenance of scalable backend and frontend test automation frameworks",
+				"Design and execute automated test suites covering backend services, APIs, and data pipelines, as well as frontend UI",
+				"testing efforts for third-party APIs and internal services",
+				"test strategies, coverage gaps, quality gates in CI/CD",
+				"documention, TPs, framework for AT",
+				"code review, best practices",
+            ],
+			"requirements": [
+				"5+years SQA/test automation  -- backend and API",
+				"Python and Go for backend test automation, and JavaScript for frontend",
+				"designing and building automation frameworks from the ground up for complex, distributed systems.",
+				"REST/gRPC API testing, service integration validation, and data pipeline verification.",
+				"CI/CD pipelines and integrating automated quality gates",
+				"Uber API or similar",
+				"cloud telemetry systems",
+            ],
+			"salary": {
+				"min": 125000,
+				"max": 167000,
+				"currency": "$"
+			}
+        },
+		{
+            "url": "https://motional.com/open-positions#/7994378003",
+			"title": "Systems Integration Engineer",
+			"company": "",
+			"location": "",
+			"employment_type": "",
+			"description": [
+
+            ],
+			"requirements": [
+
+            ],
+			"salary": {
+				"min": 123000,
+				"max": 163500,
+				"currency": "$"
+			}
+        },
+		{
+            "url": "https://motional.com/open-positions#/7901723003",
+			"title": "Sr. QA Automation Test Engineer",
+			"company": "",
+			"location": "",
+			"employment_type": "",
+			"description": [
+
+            ],
+			"requirements": [
+
+            ],
+			"salary": {
+				"min": 125000,
+				"max": 167000,
+				"currency": "$"
+			}
+        },
+		{
+            "url": "",
+			"title": "",
+			"company": "",
+			"location": "",
+			"employment_type": "",
+			"description": [
+
+            ],
+			"requirements": [
+
+            ],
+			"salary": {
+				"min": ,
+				"max": ,
+				"currency": "$"
+			}
+        },
+		{
             "url": "",
 			"title": "",
 			"company": "",

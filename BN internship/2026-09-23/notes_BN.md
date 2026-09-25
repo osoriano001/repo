@@ -1,7 +1,7 @@
 # Homework from BN
 ## Next Steps:
-### [X] Zoom desktop app<br>
-### [] 6~9 job postings
+### [X] Zoom desktop app<
+### [4ish] 6~9 job postings
 ```json
 {
     roles_interested_in[
@@ -15,4 +15,4 @@
 }
 ```
 ### [] Update Resume
-### [] Setup terminal (tabby / cygwin)
+### [X] Setup terminal (wsl - ubuntu)
