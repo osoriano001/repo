@@ -97,38 +97,71 @@
 			}
         },
 		{
-            "url": "",
-			"title": "",
-			"company": "",
-			"location": "",
-			"employment_type": "",
+            "url": "https://www.indeed.com/viewjob?jk=67c9bf793ac69904&from=shareddesktop_copy",
+			"title": "Test Engineer",
+			"company": "LITHION BATTERY INC",
+			"location": "Henderson",
+			"employment_type": "FT",
 			"description": [
-
+				"Support production testing of battery packs, subassemblies, and electronic components",
+				"resolve test failures, equipment issues,",
+				"Monitor test system performance",
+				"Design, develop, validate, and maintain manufacturing test equipment, fixtures, and automated test systems.",
+				"test procedures, specifications, acceptance criteria, and work instructions.",
+				"oscilloscopes, digital multimeters, data acquisition systems, power supplies, and communication analyzers.",
             ],
 			"requirements": [
-
+				"3 years of experience in test engineering, manufacturing engineering, electronics testing,",
+				"test systems in a manufacturing environment.",
+				"electrical test and measurement equipment.",
+				"battery pack manufacturing, energy storage products, automotive systems",
+				"Battery Management Systems (BMS) and battery pack electronics.",
+				"Knowledge of PCBA manufacturing and test methodologies, including functional test (FCT), in-circuit test (ICT), and board-level diagnostics.",
+				"automated test equipment (ATE) and industrial automation systems.",
+				"Power BI, SQL, Python, Minitab, or JMP.",
+				"CAN, LIN, Ethernet, RS-232, and RS-485.",
+				"UN38.3 testing; IEC 62133 / UL certification",
+				"Environmental and abuse testing"
             ],
 			"salary": {
-				"min": ,
-				"max": ,
+				"min": 75000,
+				"max": 90000,
 				"currency": "$"
 			}
         },
 		{
-            "url": "",
-			"title": "",
-			"company": "",
-			"location": "",
-			"employment_type": "",
+            "url": "https://www.indeed.com/viewjob?jk=92986f0251d4d46d&from=shareddesktop_copy",
+			"title": "Software Test Engineer",
+			"company": "Cala Health",
+			"location": "Remote",
+			"employment_type": "FT",
 			"description": [
-
+				"functional, exploratory, sanity, and end-to-end testing across mobile and web applications, including device and OS compatibility testing on physical devices, emulators, and simulators.",
+				"Design, build, and maintain automated test scripts for mobile and web applications",
+				"Validate REST API behavior directly — request and response contracts, status codes, authentication, error handling, and edge cases — independently of the user interface.",
+				"Write test cases from requirements, user stories, and design specifications, and maintain traceability between requirements, acceptance criteria, and test results.",
+				"Use AI tools to accelerate quality work — generating and reviewing test cases, drafting and refactoring automation scripts, and triaging logs and failures",
+				"Identify, log, and track software defects with clear step-by-step reproduction steps, device logs (Xcode/Android Studio)",
+				"release readiness through regression execution, results analysis, and clear reporting",
+				"clarify expected behavior early and surface quality risks"
             ],
 			"requirements": [
-
+				"1 to 3 years of hands-on software testing experience spanning both manual testing and automation.",
+				"writing structured test cases, executing end-to-end test suites, and capturing precise technical reproduction details.",
+				"Playwright with JavaScript for web testing and Appium with Java/Python for mobile app testing.",
+				"testing REST APIs using tools such as Postman."
+				"Practical use of AI tools in day-to-day engineering work ",
+				" installing builds on devices, collecting device logs, and managing emulators and simulators for iOS and Android.",
+				"version control and running tests within CI/CD pipelines.",
+				"Software as a Medical Device (SaMD) or other regulated software environments, including design controls and applicable quality system standards (e.g., ISO 13485, IEC 62304).",
+				"Requirements Traceability Matrix or equivalent traceability documentation.",
+				"testing on real-device cloud platforms – BrowserStack.",
+				"performance, accessibility, or security testing fundamentals.",
+				"scripting or tooling work to make testing faster"
             ],
 			"salary": {
-				"min": ,
-				"max": ,
+				"min": 61000,
+				"max": 97000,
 				"currency": "$"
 			}
         },
