@@ -149,7 +149,7 @@
 				"1 to 3 years of hands-on software testing experience spanning both manual testing and automation.",
 				"writing structured test cases, executing end-to-end test suites, and capturing precise technical reproduction details.",
 				"Playwright with JavaScript for web testing and Appium with Java/Python for mobile app testing.",
-				"testing REST APIs using tools such as Postman."
+				"testing REST APIs using tools such as Postman.",
 				"Practical use of AI tools in day-to-day engineering work ",
 				" installing builds on devices, collecting device logs, and managing emulators and simulators for iOS and Android.",
 				"version control and running tests within CI/CD pipelines.",
@@ -165,5 +165,31 @@
 				"currency": "$"
 			}
         },
+	{
+		"url":"https://www.indeed.com/viewjob?jk=99dce49c70ad0e18&tk=1k3jpunj5iavm801&from=jobi2a_jobmatch-reactivation-en-US_email&rjptk=1k3jpuml2p5gm805&xpse=SoCT67I2e1VRbYAC9j0LbzkdCdPP&xfps=46c5bfc9-964c-4173-9e3f-00f665ae1fc8&xkcb=SoCC67M2ez706g7LTh0JbzkdCdPP",
+		"title":"Junior QA Engineer",
+		"company":"PerfectServe",
+		"location":"Remote",
+		"emplyment_type":"FT",
+		"decription":[
+			"develop, maintain, and enhance automated test scripts",
+			"creation and execution of test cases, test plans, and test scenarios",
+			"build technical testing knowledge, including exposure to automation frameworks, scripting, CI/CD, and quality engineering",
+			"active on-camera presence during meetings"
+		],
+		"requirements":[
+			"experience in software testing, automation, scripting, development OR BS eng",
+			"software development lifecycle (SDLC) and/or Agile",
+			"test automation concepts and an interest in building skills in automation tools and frameworks.",
+			"JavaScript, TypeScript, Java, Python, or C#.",
+			"Health IT experience (a plus)"
+		],
+		"salary": {
+			"min": 75000,
+			"max": 115000,
+			"currency": "$"
+		}
+
+	}
 	]
 }
